@@ -359,9 +359,7 @@ box-shadow: 10px 10px 19px 0px rgba(133,130,133,1);
 }
 
 .videobox{
-	/*background-color:rgba(25,207,252,.2);
-	font-size:18px;
-	margin-top:15px;*/
+	background-color:rgba(25,207,252,.2);
 }
 
 .videobox h3{
